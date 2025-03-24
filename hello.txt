@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 first line
-second line
-=======
-1 line
 2 line
->>>>>>> 6795d87f2ccf476da2651ac57a45529463b5f11d
+3 line
